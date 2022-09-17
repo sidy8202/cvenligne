@@ -1,0 +1,46 @@
+body
+{
+    background-color: gainsboro;"
+}
+
+/* @media only screen and (min-width : 300px) and (max-width : 572px) {
+	.profil{
+	    position: absolute;
+        bottom: 350px;
+        width: auto;
+	}
+    .contactmobile{
+        margin-top: 70px;
+    }
+} */
+
+
+@media only screen and (min-width : 573px) and (max-width : 600px) {
+	.profil{
+
+        width: 10%;
+	}
+}
+
+.triangletopleft
+
+			{
+				width: 0;
+     			height: 0;
+     			border-top: 205px solid #17174a;
+      			border-right: 405px solid transparent;									
+			}
+
+            .img 
+            
+            {
+				width: 165px;
+				height: 165px;
+				border-radius: 50%;
+				border: 1px solid #17174a;
+				/* background: #17174a;	 */
+				position:relative;
+				bottom: 158px;
+				left: 40px;
+
+			}
